@@ -21,7 +21,7 @@ cusdis:
 
 user: 
   name: GH
-  pic: /img/cat.jpg
+  pic: assets/img/cat.jpg
   picAlt: "GH"
   job: student
   aboutme: true # comment this out if you don't need the 'about' page.
