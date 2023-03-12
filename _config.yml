@@ -19,9 +19,9 @@ disqus_shortname: #disqus shortname
 cusdis:
     app_id: #your cusdis app_id
 
-user: GH
+user: 
   name: GH
-  pic: /assets/img/cat.jpg
+  pic: //img/cat.jpg
   picAlt: "GH"
   job: student
   aboutme: true # comment this out if you don't need the 'about' page.
